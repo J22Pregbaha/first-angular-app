@@ -1,0 +1,20 @@
+[
+    {
+        "givenName": "Couch",
+        "familyName": "Panther",
+        "email": "test@panther.com",
+        "password": "pass"
+    },
+    {
+        "givenName": "Coach",
+        "familyName": "Leopard",
+        "email": "test@leopard.com",
+        "password": "pass"
+    },
+    {
+        "givenName": "Houston",
+        "familyName": "Jazz",
+        "email": "jazz@houston.com",
+        "password": "pass"
+    }
+]
